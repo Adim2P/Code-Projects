@@ -1,1 +1,1 @@
-A compilatio nof all my personal projects, likely would be dead for months
+A compilation of all my personal projects, likely would be dead for months
