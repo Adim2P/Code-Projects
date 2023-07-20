@@ -1,3 +1,7 @@
+# Simple program written in Python that literally just imitates a online shop
+# It has a working shopping cart where you can remove items and such
+# Doesn't have an interface, basically a CLI
+
 # Menu items and Prices 
 menu = {
     
