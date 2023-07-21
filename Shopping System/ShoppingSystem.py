@@ -114,7 +114,7 @@ def payment_system():
 
     while True:
         display_name()
-        category = input('Please Enter the Category ID to select a category (or "exit" to quit): ')
+        category = input('Please Enter the Category ID to select a category (or "exit" to return to shopping cart): ')
 
         if category == 'exit':
             break
