@@ -101,12 +101,12 @@ def display_bill(privilege_level):
     print('Bill Statement:')
     print('---------------------------')
     for item_id, item in shopping_cart.items():
-        print (f'Item: {item["name"]}, Quantity: {item["quantity"]}, Price: ${item["price"] * item["quantity"]}')
+        print (f'Item: {item["name"]}, Quantity: {item["quantity"]}, Price: ${round(item["price"] * item["quantity"], 2)}')
     print('---------------------------')
-    print(f'Total Price (Before Discount): ${total_price}')
-    print(f'Discounted Price: ${discounted_price}')
-    print(f'GST (9%): ${gst_amount}')
-    print(f'Final Payable Amount: ${final_price}')
+    print(f'Total Price (Before Discount): ${round(total_price, 2)}')
+    print(f'Discounted Price: ${round(discounted_price, 2)}')
+    print(f'GST (9%): ${round(gst_amount, 2)}')
+    print(f'Final Payable Amount: ${round(final_price,2 )}')
 
 # Now the Main Program Loop
 def payment_system():
