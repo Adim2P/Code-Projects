@@ -1,0 +1,1 @@
+Basically, some .NET MAUI App that uses nested structure and OnClickImage events
