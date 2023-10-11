@@ -24028,11 +24028,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Files\\Personal Files\\School Thesis\\MAUIApp2\\MAUIApp2\\MAUIApp2.csproj",
+      "projectUniqueName": "d:\\Files\\Personal Files\\Personal Projects\\MAUIApp2\\MAUIApp2\\MAUIApp2.csproj",
       "projectName": "MAUIApp2",
-      "projectPath": "d:\\Files\\Personal Files\\School Thesis\\MAUIApp2\\MAUIApp2\\MAUIApp2.csproj",
+      "projectPath": "d:\\Files\\Personal Files\\Personal Projects\\MAUIApp2\\MAUIApp2\\MAUIApp2.csproj",
       "packagesPath": "C:\\Users\\Adim\\.nuget\\packages\\",
-      "outputPath": "d:\\Files\\Personal Files\\School Thesis\\MAUIApp2\\MAUIApp2\\obj\\",
+      "outputPath": "d:\\Files\\Personal Files\\Personal Projects\\MAUIApp2\\MAUIApp2\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
