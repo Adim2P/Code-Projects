@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MAUIApp5
+build_property.ProjectDir = D:\Files\Personal Files\Personal Projects\MAUIApp5\MAUIApp5\
+
+[D:/Files/Personal Files/Personal Projects/MAUIApp5/MAUIApp5/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUIApp5.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/Files/Personal Files/Personal Projects/MAUIApp5/MAUIApp5/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUIApp5.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/Files/Personal Files/Personal Projects/MAUIApp5/MAUIApp5/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUIApp5.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/Files/Personal Files/Personal Projects/MAUIApp5/MAUIApp5/Pages/CallofDuty.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUIApp5.Pages.CallofDuty.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\CallofDuty.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\CallofDuty.xaml
+
+[D:/Files/Personal Files/Personal Projects/MAUIApp5/MAUIApp5/Pages/CounterStrike2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUIApp5.Pages.CounterStrike2.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\CounterStrike2.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\CounterStrike2.xaml
+
+[D:/Files/Personal Files/Personal Projects/MAUIApp5/MAUIApp5/Pages/VALORANT.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUIApp5.Pages.VALORANT.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\VALORANT.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\VALORANT.xaml
+
+[D:/Files/Personal Files/Personal Projects/MAUIApp5/MAUIApp5/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUIApp5.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/Files/Personal Files/Personal Projects/MAUIApp5/MAUIApp5/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUIApp5.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

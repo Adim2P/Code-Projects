@@ -1,0 +1,22 @@
+<Shell
+    x:Class="MAUIApp5.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:MAUIApp5.Pages"
+    Shell.FlyoutBehavior="Flyout">
+
+    <FlyoutItem Title="Favorites"
+                FlyoutDisplayOptions="AsMultipleItems">
+
+        <ShellContent Title="Call of Duty"
+                      Icon="cod.jpeg"
+                      ContentTemplate="{DataTemplate local:CallofDuty}" />
+        <ShellContent Title="Counter Strike 2"
+                      Icon="cs2.jpeg"
+                      ContentTemplate="{DataTemplate local:CounterStrike2}" />
+        <ShellContent Title="VALORANT"
+                      Icon="valorant.jpeg"
+                      ContentTemplate="{DataTemplate local:VALORANT}" />
+    </FlyoutItem>
+
+</Shell>
