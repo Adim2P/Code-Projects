@@ -27,9 +27,24 @@ namespace MAUIApp7
             sectionList.ItemsSource = section;
         }
 
-        // alisin mo lahat yan -Buitre
-        // Di sinabi yan sa ano? Di tinanggal ka agad - Buitre
-        // Mag salita ka na pre - Buitre
+        void OnDeleteButtonClicked(object sender, EventArgs e)
+        {
+            statusMessage.Text = "";
+            DeleteAllStudents();
+            sectionList.ItemsSource = null;
+            statusMessage.Text = "All Students Deleted.";
+        }
 
+        void DeleteAllStudents()
+        {
+            try
+            {
+                App.StudentRepo.DeleteAllStudents();
+            }
+            catch (Exception ex)
+            {
+                statusMessage.Text = $"Failed to delete students. Error: {ex.Message}";
+            }
+        } 
     }
 }

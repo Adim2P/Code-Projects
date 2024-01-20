@@ -64,5 +64,22 @@ namespace MAUIApp7.Models
 
             return new List<Student>();
         }
+
+        public void DeleteAllStudents()
+        {
+            try
+            {
+                Init();
+
+                _conn.DropTable<Student>();
+                _conn.CreateTable<Student>();
+
+                StatusMessage = "All Students deleted.";
+            }
+            catch (Exception ex)
+            {
+                StatusMessage = $"Failed to delete all students. Error: {ex.Message}";
+            }
+        }
     }
 }
