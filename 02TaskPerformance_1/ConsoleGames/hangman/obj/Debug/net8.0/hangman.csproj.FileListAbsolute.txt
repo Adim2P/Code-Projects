@@ -1,0 +1,15 @@
+D:\Files\Personal Files\Personal Projects\ConsoleGames\hangman\bin\Debug\net8.0\hangman.exe
+D:\Files\Personal Files\Personal Projects\ConsoleGames\hangman\bin\Debug\net8.0\hangman.deps.json
+D:\Files\Personal Files\Personal Projects\ConsoleGames\hangman\bin\Debug\net8.0\hangman.runtimeconfig.json
+D:\Files\Personal Files\Personal Projects\ConsoleGames\hangman\bin\Debug\net8.0\hangman.dll
+D:\Files\Personal Files\Personal Projects\ConsoleGames\hangman\bin\Debug\net8.0\hangman.pdb
+D:\Files\Personal Files\Personal Projects\ConsoleGames\hangman\obj\Debug\net8.0\hangman.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Personal Files\Personal Projects\ConsoleGames\hangman\obj\Debug\net8.0\hangman.AssemblyInfoInputs.cache
+D:\Files\Personal Files\Personal Projects\ConsoleGames\hangman\obj\Debug\net8.0\hangman.AssemblyInfo.cs
+D:\Files\Personal Files\Personal Projects\ConsoleGames\hangman\obj\Debug\net8.0\hangman.csproj.CoreCompileInputs.cache
+D:\Files\Personal Files\Personal Projects\ConsoleGames\hangman\obj\Debug\net8.0\hangman.sourcelink.json
+D:\Files\Personal Files\Personal Projects\ConsoleGames\hangman\obj\Debug\net8.0\hangman.dll
+D:\Files\Personal Files\Personal Projects\ConsoleGames\hangman\obj\Debug\net8.0\refint\hangman.dll
+D:\Files\Personal Files\Personal Projects\ConsoleGames\hangman\obj\Debug\net8.0\hangman.pdb
+D:\Files\Personal Files\Personal Projects\ConsoleGames\hangman\obj\Debug\net8.0\hangman.genruntimeconfig.cache
+D:\Files\Personal Files\Personal Projects\ConsoleGames\hangman\obj\Debug\net8.0\ref\hangman.dll

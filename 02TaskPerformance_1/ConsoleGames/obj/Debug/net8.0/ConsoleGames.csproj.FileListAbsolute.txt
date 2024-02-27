@@ -1,0 +1,15 @@
+D:\Files\Personal Files\Personal Projects\ConsoleGames\bin\Debug\net8.0\ConsoleGames.exe
+D:\Files\Personal Files\Personal Projects\ConsoleGames\bin\Debug\net8.0\ConsoleGames.deps.json
+D:\Files\Personal Files\Personal Projects\ConsoleGames\bin\Debug\net8.0\ConsoleGames.runtimeconfig.json
+D:\Files\Personal Files\Personal Projects\ConsoleGames\bin\Debug\net8.0\ConsoleGames.dll
+D:\Files\Personal Files\Personal Projects\ConsoleGames\bin\Debug\net8.0\ConsoleGames.pdb
+D:\Files\Personal Files\Personal Projects\ConsoleGames\obj\Debug\net8.0\ConsoleGames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Personal Files\Personal Projects\ConsoleGames\obj\Debug\net8.0\ConsoleGames.AssemblyInfoInputs.cache
+D:\Files\Personal Files\Personal Projects\ConsoleGames\obj\Debug\net8.0\ConsoleGames.AssemblyInfo.cs
+D:\Files\Personal Files\Personal Projects\ConsoleGames\obj\Debug\net8.0\ConsoleGames.csproj.CoreCompileInputs.cache
+D:\Files\Personal Files\Personal Projects\ConsoleGames\obj\Debug\net8.0\ConsoleGames.sourcelink.json
+D:\Files\Personal Files\Personal Projects\ConsoleGames\obj\Debug\net8.0\ConsoleGames.dll
+D:\Files\Personal Files\Personal Projects\ConsoleGames\obj\Debug\net8.0\refint\ConsoleGames.dll
+D:\Files\Personal Files\Personal Projects\ConsoleGames\obj\Debug\net8.0\ConsoleGames.pdb
+D:\Files\Personal Files\Personal Projects\ConsoleGames\obj\Debug\net8.0\ConsoleGames.genruntimeconfig.cache
+D:\Files\Personal Files\Personal Projects\ConsoleGames\obj\Debug\net8.0\ref\ConsoleGames.dll
