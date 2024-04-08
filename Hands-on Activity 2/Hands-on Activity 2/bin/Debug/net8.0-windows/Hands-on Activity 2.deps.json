@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hands-on Activity 2/1.0.0": {
+        "runtime": {
+          "Hands-on Activity 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hands-on Activity 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\Files\Personal Files\Personal Projects\Hands-on Activity 2\Hands-on Activity 2\bin\Debug\net8.0-windows\Hands-on Activity 2.exe
+D:\Files\Personal Files\Personal Projects\Hands-on Activity 2\Hands-on Activity 2\bin\Debug\net8.0-windows\Hands-on Activity 2.deps.json
+D:\Files\Personal Files\Personal Projects\Hands-on Activity 2\Hands-on Activity 2\bin\Debug\net8.0-windows\Hands-on Activity 2.runtimeconfig.json
+D:\Files\Personal Files\Personal Projects\Hands-on Activity 2\Hands-on Activity 2\bin\Debug\net8.0-windows\Hands-on Activity 2.dll
+D:\Files\Personal Files\Personal Projects\Hands-on Activity 2\Hands-on Activity 2\bin\Debug\net8.0-windows\Hands-on Activity 2.pdb
+D:\Files\Personal Files\Personal Projects\Hands-on Activity 2\Hands-on Activity 2\obj\Debug\net8.0-windows\Hands_on_Activity_2.Form1.resources
+D:\Files\Personal Files\Personal Projects\Hands-on Activity 2\Hands-on Activity 2\obj\Debug\net8.0-windows\Hands-on Activity 2.csproj.GenerateResource.cache
+D:\Files\Personal Files\Personal Projects\Hands-on Activity 2\Hands-on Activity 2\obj\Debug\net8.0-windows\Hands-on Activity 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Personal Files\Personal Projects\Hands-on Activity 2\Hands-on Activity 2\obj\Debug\net8.0-windows\Hands-on Activity 2.AssemblyInfoInputs.cache
+D:\Files\Personal Files\Personal Projects\Hands-on Activity 2\Hands-on Activity 2\obj\Debug\net8.0-windows\Hands-on Activity 2.AssemblyInfo.cs
+D:\Files\Personal Files\Personal Projects\Hands-on Activity 2\Hands-on Activity 2\obj\Debug\net8.0-windows\Hands-on Activity 2.csproj.CoreCompileInputs.cache
+D:\Files\Personal Files\Personal Projects\Hands-on Activity 2\Hands-on Activity 2\obj\Debug\net8.0-windows\Hands-on Activity 2.sourcelink.json
+D:\Files\Personal Files\Personal Projects\Hands-on Activity 2\Hands-on Activity 2\obj\Debug\net8.0-windows\Hands-on Activity 2.dll
+D:\Files\Personal Files\Personal Projects\Hands-on Activity 2\Hands-on Activity 2\obj\Debug\net8.0-windows\refint\Hands-on Activity 2.dll
+D:\Files\Personal Files\Personal Projects\Hands-on Activity 2\Hands-on Activity 2\obj\Debug\net8.0-windows\Hands-on Activity 2.pdb
+D:\Files\Personal Files\Personal Projects\Hands-on Activity 2\Hands-on Activity 2\obj\Debug\net8.0-windows\Hands-on Activity 2.genruntimeconfig.cache
+D:\Files\Personal Files\Personal Projects\Hands-on Activity 2\Hands-on Activity 2\obj\Debug\net8.0-windows\ref\Hands-on Activity 2.dll
