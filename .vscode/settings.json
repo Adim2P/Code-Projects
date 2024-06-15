@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "PL_09_HOA_1\\src"
+        "PL_09_HOA_1\\src",
+        "PL_10_TP_1_Java\\src"
     ],
     "java.project.referencedLibraries": []
 }
